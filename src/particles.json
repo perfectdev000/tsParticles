@@ -1,7 +1,7 @@
 {
   "background": {
     "color": {
-      "value": "#282c34"
+      "value": "#08aa34"
     }
   },
   "fpsLimit": 60,
@@ -12,7 +12,7 @@
         "mode": "push"
       },
       "onHover": {
-        "enable": true,
+        "enable": false,
         "mode": "repulse"
       },
       "resize": true
@@ -35,7 +35,7 @@
   },
   "particles": {
     "color": {
-      "value": "#ffffff"
+      "value": "#0000ff"
     },
     "links": {
       "color": "#ffffff",
@@ -60,7 +60,7 @@
         "enable": true,
         "value_area": 800
       },
-      "value": 80
+      "value": 10
     },
     "opacity": {
       "value": 0.5
